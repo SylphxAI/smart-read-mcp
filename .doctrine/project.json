@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "project": {
+    "repo": "SylphxAI/smart-read-mcp",
+    "name": "Smart Read MCP",
+    "lifecycle": "bootstrap",
+    "layer": "tooling",
+    "summary": "Universal read path for agents — local files and guarded remote URLs resolved into the Smart Reader stack."
+  }
+}

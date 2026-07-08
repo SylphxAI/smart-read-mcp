@@ -1,0 +1,21 @@
+{
+  "name": "@sylphx/smart-read-mcp",
+  "version": "0.0.0",
+  "description": "Universal read path for agents — local files and guarded remote URLs resolved into the Smart Reader stack.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylphxAI/smart-read-mcp.git"
+  },
+  "homepage": "https://github.com/SylphxAI/smart-read-mcp#readme",
+  "keywords": ["mcp", "model-context-protocol", "reader", "evidence", "sylphx"],
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "echo \"bootstrap: no tests yet\" && exit 0"
+  }
+}
