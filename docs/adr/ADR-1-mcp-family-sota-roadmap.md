@@ -1,7 +1,7 @@
 # ADR-1: Adopt Smart Read MCP Family SOTA Roadmap
 
 Date: 2026-07-09
-Status: Proposed in PR #1
+Status: Accepted
 Slug: mcp-family-sota-roadmap
 
 ## Context
