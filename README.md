@@ -6,6 +6,8 @@
 
 Part of the [Sylphx Reader portfolio](https://github.com/SylphxAI/pdf-reader-mcp/blob/main/docs/adr/0004-reader-portfolio-architecture.md).
 
+SOTA family roadmap: [docs/roadmap/sota-family-roadmap.md](docs/roadmap/sota-family-roadmap.md).
+
 | Sibling | Role |
 | --- | --- |
 | [pdf-reader-mcp](https://github.com/SylphxAI/pdf-reader-mcp) | PDF Agent Document Twin (production) |
