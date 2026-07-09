@@ -3,7 +3,7 @@
 Status: archived adoption plan
 Owner: Smart Read MCP
 Scope: repo-local future plan and its role in the SylphxAI MCP family
-Decision record: pending PR-number ADR
+Decision record: `docs/adr/ADR-1-mcp-family-sota-roadmap.md`
 
 ## Family Role
 
